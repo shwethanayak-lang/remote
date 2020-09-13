@@ -1,4 +1,4 @@
 # remote
 
-A Repository created to learn connecting to GitHub remoptely.
+A Repository created to learn connecting to GitHub remotely.
 
