@@ -1,7 +1,7 @@
 function sum(a, b){
 
 var sum = a+b;
-return sum;
+console.log(sum);
 
 }
 sum(2,3);
