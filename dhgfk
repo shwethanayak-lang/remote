@@ -1,0 +1,44 @@
+[33mcommit d68f67094063460f513e6db41e069b8c7400c8e3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Shwetha Nayak <Shwetha Nayak>
+Date:   Sun Sep 13 14:59:44 2020 +0530
+
+    Removed mistake folder
+
+[33mcommit 6d818af11c61e6279dd8fcc5e9d6a452af31480c[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Shwetha Nayak <64678982+shwethanayak-lang@users.noreply.github.com>
+Date:   Sun Sep 13 14:45:46 2020 +0530
+
+    created gitignore
+
+[33mcommit 935f0ddf160218fc42621a5fe7a3709fcd3c118b[m
+Merge: 96f9ee9 79e1de9
+Author: Shwetha Nayak <64678982+shwethanayak-lang@users.noreply.github.com>
+Date:   Sun Sep 13 14:44:04 2020 +0530
+
+    Merge pull request #1 from shwethanayak-lang/add-license-1
+    
+    Added license
+
+[33mcommit 96f9ee953cb831fc43cb0a0a66061c32f9a675da[m
+Author: Shwetha Nayak <64678982+shwethanayak-lang@users.noreply.github.com>
+Date:   Sun Sep 13 14:42:47 2020 +0530
+
+    Added license
+
+[33mcommit 79e1de989ba441bfbccb112aa0829358cadd1fcb[m[33m ([m[1;31morigin/add-license-1[m[33m)[m
+Author: Shwetha Nayak <64678982+shwethanayak-lang@users.noreply.github.com>
+Date:   Sun Sep 13 14:42:26 2020 +0530
+
+    Added license
+
+[33mcommit a001fd12b427282167ea7eafb72a4d577e1ee794[m
+Author: Shwetha Nayak <64678982+shwethanayak-lang@users.noreply.github.com>
+Date:   Sun Sep 13 14:38:18 2020 +0530
+
+    Created readme proper
+
+[33mcommit 497fd6ca54b56b8b5278e13e055eeec31280cd7d[m
+Author: Shwetha Nayak <64678982+shwethanayak-lang@users.noreply.github.com>
+Date:   Sun Sep 13 14:36:52 2020 +0530
+
+    Create LICENSE.md
